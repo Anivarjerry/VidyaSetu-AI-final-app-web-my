@@ -1,0 +1,9 @@
+{
+  "name": "VidyaSetu AI - Premium School Management",
+  "description": "Premium School Management System with Real-time Tracking and AI Assistance.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}

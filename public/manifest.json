@@ -1,0 +1,18 @@
+
+{
+  "short_name": "VidyaSetu AI",
+  "name": "VidyaSetu AI - School Management",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#10b981",
+  "background_color": "#F8FAFC",
+  "orientation": "portrait"
+}
